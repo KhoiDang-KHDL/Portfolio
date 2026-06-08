@@ -19,15 +19,16 @@
 
 > **"Transforming raw data into actionable business strategies."**
 
-I'm a Data Science student passionate about Machine Learning, Data Analytics, Business Intelligence, and backend-driven data systems.  
-I enjoy building practical projects that transform raw data into meaningful insights, predictive models, and decision-support tools
+I'm a Data Science student passionate about Machine Learning, Data Analytics, Business Intelligence, and backend-driven data systems.  I enjoy building practical projects that transform raw data into meaningful insights, predictive models, and decision-support tools.
+
 ---
 
 ## Career Direction
-* 📊 **Data Analyst (Core Focus)
-* 📈 **Business Intelligence Analyst
-* ⚙️ **Analytics Engineering
-* 🧠 **Data Scientist & Machine Learning Engineer
+
+* 📊 **Data Analyst (Core Focus)**
+* 📈 **Business Intelligence Analyst**
+* ⚙️ **Analytics Engineering**
+* 🧠 **Data Scientist & Machine Learning Engineer**
 
 ---
 
@@ -105,19 +106,4 @@ Conducted end-to-end analysis on 31.6K+ UK train transactions to diagnose operat
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KhoiDang-KHDL&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="380px" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiDang-KHDL&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
