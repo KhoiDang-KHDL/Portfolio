@@ -101,7 +101,7 @@ Conducted end-to-end analysis on 31.6K+ UK train transactions to diagnose operat
 
 * Architected a robust backend database structure for financial transactions.
 * Developed use cases, database schemas, and API structures for efficient and secure localized transaction handling.
-* **Tech Stack:** SQL, Database Design, API Design.
+* **Tech Stack:** `SQL`, `Database Design`, `API Design`.
 * [View Repository](https://github.com/KhoiDang-KHDL/E-Wallet-Database-Transaction-Processing-System.git)
 
 ---
