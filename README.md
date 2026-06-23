@@ -72,7 +72,7 @@ I'm a Data Science student passionate about Machine Learning, Data Analytics, Bu
 * Engineered transactional features and applied PCA (Principal Component Analysis) to reduce dimensionality, surfacing key variance factors to support strategic recommendations.
 * Built an interactive Power BI dashboard translating segment-level financial insights into business-ready visuals accessible to non-technical stakeholders.
 * **Tech Stack:** `Python`, `Power BI`, `Scikit-learn`, `Pandas`, `Machine Learning`.
-* [View Repository](https://github.com/KhoiDang-KHDL/banking-analytics-fraud-detection.git))
+* [View Repository](https://github.com/KhoiDang-KHDL/banking-analytics-fraud-detection.git)
 
 
 ### 📈 E-Commerce Funnel & Marketing Performance Analysis (TheLook)
