@@ -64,6 +64,16 @@ I'm a Data Science student passionate about Machine Learning, Data Analytics, Bu
 ---
 
 ## 💼 Featured Projects
+### 🏦 Banking Analytics Fraud Detection
+
+* Performed EDA on **20K+ banking transaction records**, uncovering customer behavioral segments and key drivers of financial product adoption.
+* Applied **Cohort Analysis** and **RFM modeling** to identify key retention patterns, revealing cyclical reactivation peaks at the 1-month and 6-month marks.
+* Segmented customers into distinct profiles via **Customer Lifetime Value (CLV)** evaluation, identifying high-potential VIP groups that drive the majority of revenue.
+* Engineered transactional features and applied PCA (Principal Component Analysis) to reduce dimensionality, surfacing key variance factors to support strategic recommendations.
+* Built an interactive Power BI dashboard translating segment-level financial insights into business-ready visuals accessible to non-technical stakeholders.
+* **Tech Stack:** `Python`, `Power BI`, `Scikit-learn`, `Pandas`, `Machine Learning`.
+* [View Repository](https://github.com/KhoiDang-KHDL/banking-analytics-fraud-detection.git))
+
 
 ### 📈 E-Commerce Funnel & Marketing Performance Analysis (TheLook)
 
